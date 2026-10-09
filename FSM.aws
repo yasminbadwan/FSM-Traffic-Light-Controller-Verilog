@@ -1,0 +1,13 @@
+[Version]
+Version=15.0
+[Designs]
+FSM=FSM.adf
+[Settings]
+Active=FSM
+[Expand]
+fsm=1
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
